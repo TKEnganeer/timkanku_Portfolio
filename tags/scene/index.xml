@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on Timothe Kanku</title>
-    <link>https://dataprofessor.github.io/timkanku_Portfolio/tags/scene/</link>
+    <link>https://tkenganeer.github.io/timkanku_Portfolio/tags/scene/</link>
     <description>Recent content in scene on Timothe Kanku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dataprofessor.github.io/timkanku_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tkenganeer.github.io/timkanku_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1: DS Commutable House Price Estimator</title>
-      <link>https://dataprofessor.github.io/timkanku_Portfolio/post/project-1/</link>
+      <link>https://tkenganeer.github.io/timkanku_Portfolio/post/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dataprofessor.github.io/timkanku_Portfolio/post/project-1/</guid>
+      <guid>https://tkenganeer.github.io/timkanku_Portfolio/post/project-1/</guid>
       <description>I created a tool to estimate the house prices for properties &amp;lt; 40 miles from central London under £325,000 (MAE ~ £19K) to help people when looking for homes at commutable distance. I scraped over 900 property descriptions from zoopla.co.uk using python and beautifulsoups. Engineered features from the text for each description to quantify how the value of house prices change if are description were to have a garden, largeness, spaciousness or an extension featured in the description.</description>
     </item>
     
